@@ -2,13 +2,13 @@
 REM ═══════════════════════════════════════════════════════════════════
 REM  NULLSEC WINDOWS BATCH TOOLKIT
 REM  Windows batch scripts for security analysis
-REM  @author @AnonAntics | discord.gg/killers
+REM  @author bad-antics | discord.gg/killers
 REM ═══════════════════════════════════════════════════════════════════
 
 setlocal EnableDelayedExpansion
 
 set VERSION=2.0.0
-set AUTHOR=@AnonAntics
+set AUTHOR=bad-antics
 set DISCORD=discord.gg/killers
 
 :banner
@@ -21,7 +21,7 @@ echo  │   🔧 Legacy Windows Compatibility        │
 echo  │   📡 No Dependencies Required            │
 echo  │   💾 Portable Security Scripts           │
 echo  │                                          │
-echo  │          @AnonAntics ^| NullSec           │
+echo  │          bad-antics ^| NullSec           │
 echo  ╰──────────────────────────────────────────╯
 echo.
 
@@ -414,7 +414,7 @@ echo.
     echo ═══════════════════════════════════════════════════════════════════
     echo  End of Report
     echo  NullSec Windows Batch Tools v%VERSION%
-    echo  @AnonAntics ^| discord.gg/killers
+    echo  bad-antics ^| discord.gg/killers
     echo ═══════════════════════════════════════════════════════════════════
 ) > "%REPORT_FILE%" 2>&1
 
@@ -433,7 +433,7 @@ echo.
 echo  ─────────────────────────────────────────
 echo   🪟 NullSec Windows Batch Tools
 echo   🔑 Premium: discord.gg/killers
-echo   🐦 Twitter: @AnonAntics
+echo   🐦 GitHub: bad-antics
 echo  ─────────────────────────────────────────
 echo.
 echo  Thanks for using NullSec!

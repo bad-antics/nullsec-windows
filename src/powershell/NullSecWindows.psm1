@@ -7,14 +7,14 @@
     Native Windows security analysis and hardening tools
     
 .AUTHOR
-    @AnonAntics
+    bad-antics
     
 .DISCORD
     discord.gg/killers
 #>
 
 $Script:VERSION = "2.0.0"
-$Script:AUTHOR = "@AnonAntics"
+$Script:AUTHOR = "bad-antics"
 $Script:DISCORD = "discord.gg/killers"
 
 $Script:BANNER = @"
@@ -26,7 +26,7 @@ $Script:BANNER = @"
 │   📡 Defender • Registry • Network       │
 │   💾 Services & Scheduled Tasks          │
 │                                          │
-│            @AnonAntics | NullSec         │
+│            bad-antics | NullSec         │
 ╰──────────────────────────────────────────╯
 "@
 
@@ -552,7 +552,7 @@ function Show-NullSecMenu {
     Write-Host "`n─────────────────────────────────────────"
     Write-Host "🪟 NullSec Windows PowerShell"
     Write-Host "🔑 Premium: discord.gg/killers"
-    Write-Host "🐦 Twitter: @AnonAntics"
+    Write-Host "🐦 GitHub: bad-antics"
     Write-Host "─────────────────────────────────────────`n"
 }
 

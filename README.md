@@ -9,7 +9,7 @@
 │   📡 C# • PowerShell • F# • Batch        │
 │   💾 System Analysis & Hardening         │
 │                                          │
-│            @AnonAntics | NullSec         │
+│            bad-antics | NullSec         │
 ╰──────────────────────────────────────────╯
 ```
 
@@ -62,7 +62,7 @@ dotnet build -c Release
 
 ## Credits
 
-- **Author**: @AnonAntics
+- **Author**: bad-antics
 - **Discord**: [discord.gg/killers](https://discord.gg/killers)
 
 ---

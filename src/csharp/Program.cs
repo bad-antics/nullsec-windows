@@ -1,6 +1,6 @@
 // NullSec Windows Security Toolkit - C#
 // Native Windows security analysis
-// @author @AnonAntics
+// @author bad-antics
 // @discord discord.gg/killers
 
 using System;
@@ -24,7 +24,7 @@ namespace NullSecWindows
     public static class Config
     {
         public const string VERSION = "2.0.0";
-        public const string AUTHOR = "@AnonAntics";
+        public const string AUTHOR = "bad-antics";
         public const string DISCORD = "discord.gg/killers";
         
         public const string BANNER = @"
@@ -36,7 +36,7 @@ namespace NullSecWindows
 │   📡 Defender • BitLocker • Network      │
 │   💾 Registry & Event Log Analysis       │
 │                                          │
-│            @AnonAntics | NullSec         │
+│            bad-antics | NullSec         │
 ╰──────────────────────────────────────────╯";
     }
     
@@ -744,7 +744,7 @@ namespace NullSecWindows
             System.Console.WriteLine("\n─────────────────────────────────────────");
             System.Console.WriteLine("🪟 NullSec Windows Toolkit");
             System.Console.WriteLine("🔑 Premium: discord.gg/killers");
-            System.Console.WriteLine("🐦 Twitter: @AnonAntics");
+            System.Console.WriteLine("🐦 GitHub: bad-antics");
             System.Console.WriteLine("─────────────────────────────────────────\n");
         }
     }
