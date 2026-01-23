@@ -44,7 +44,7 @@ NullSec Windows is an exclusive security toolkit built specifically for Microsof
 - DNS cache analyzer
 - SMB share auditor
 
-### 💻 System Hardening
+### 💻 System Security
 - Registry security scanner
 - Service configuration auditor
 - Scheduled task analyzer
