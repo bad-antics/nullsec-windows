@@ -12,7 +12,7 @@ use std::process::Command;
 
 const VERSION: &str = "2.0.0";
 const AUTHOR: &str = "bad-antics";
-const DISCORD: &str = "x.com/AnonAntics";
+const TWITTER: &str = "x.com/AnonAntics";
 
 const BANNER: &str = r#"
 ╭──────────────────────────────────────────╮

@@ -9,7 +9,7 @@ import os, strutils, strformat, tables, times, terminal
 const
   VERSION = "2.0.0"
   AUTHOR = "bad-antics"
-  DISCORD = "x.com/AnonAntics"
+  TWITTER = "x.com/AnonAntics"
 
 const BANNER = """
 

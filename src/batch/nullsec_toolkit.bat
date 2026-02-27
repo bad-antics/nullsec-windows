@@ -9,7 +9,7 @@ setlocal EnableDelayedExpansion
 
 set VERSION=2.0.0
 set AUTHOR=bad-antics
-set DISCORD=x.com/AnonAntics
+set TWITTER=x.com/AnonAntics
 
 :banner
 echo.

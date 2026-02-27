@@ -15,7 +15,7 @@ open Microsoft.Win32
 
 let VERSION = "2.0.0"
 let AUTHOR = "bad-antics"
-let DISCORD = "x.com/AnonAntics"
+let TWITTER = "x.com/AnonAntics"
 
 let BANNER = """
 ╭──────────────────────────────────────────╮

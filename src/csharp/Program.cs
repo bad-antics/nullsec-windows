@@ -25,7 +25,7 @@ namespace NullSecWindows
     {
         public const string VERSION = "2.0.0";
         public const string AUTHOR = "bad-antics";
-        public const string DISCORD = "x.com/AnonAntics";
+        public const string TWITTER = "x.com/AnonAntics";
         
         public const string BANNER = @"
 ╭──────────────────────────────────────────╮
