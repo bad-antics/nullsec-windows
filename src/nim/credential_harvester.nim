@@ -1,7 +1,7 @@
 # ═══════════════════════════════════════════════════════════════════
 #  NULLSEC WINDOWS NIM CREDENTIAL HARVESTER
 #  Windows credential extraction and analysis
-#  @author bad-antics | discord.gg/killers
+#  @author bad-antics | x.com/AnonAntics
 # ═══════════════════════════════════════════════════════════════════
 
 import os, strutils, strformat, tables, times, terminal
@@ -9,7 +9,7 @@ import os, strutils, strformat, tables, times, terminal
 const
   VERSION = "2.0.0"
   AUTHOR = "bad-antics"
-  DISCORD = "discord.gg/killers"
+  DISCORD = "x.com/AnonAntics"
 
 const BANNER = """
 

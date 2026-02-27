@@ -1,7 +1,7 @@
 // NullSec Windows F# Security Analysis
 // Functional security analysis tools
 // @author bad-antics
-// @discord discord.gg/killers
+// @discord x.com/AnonAntics
 
 module NullSecWindows.FSharp.SecurityAnalysis
 
@@ -15,7 +15,7 @@ open Microsoft.Win32
 
 let VERSION = "2.0.0"
 let AUTHOR = "bad-antics"
-let DISCORD = "discord.gg/killers"
+let DISCORD = "x.com/AnonAntics"
 
 let BANNER = """
 ╭──────────────────────────────────────────╮
@@ -404,7 +404,7 @@ let showMenu (license: License) =
     
     printfn "\n─────────────────────────────────────────"
     printfn "🪟 NullSec Windows F# Tools"
-    printfn "🔑 Premium: discord.gg/killers"
+    printfn "🔑 Premium: x.com/AnonAntics"
     printfn "🐦 GitHub: bad-antics"
     printfn "─────────────────────────────────────────\n"
 

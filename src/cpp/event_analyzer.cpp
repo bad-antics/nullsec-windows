@@ -2,7 +2,7 @@
  * ═══════════════════════════════════════════════════════════════════
  *  NULLSEC WINDOWS CPP EVENT LOG ANALYZER
  *  Windows Event Log analysis and security monitoring
- *  @author bad-antics | discord.gg/killers
+ *  @author bad-antics | x.com/AnonAntics
  * ═══════════════════════════════════════════════════════════════════
  */
 
@@ -24,7 +24,7 @@
 
 const char* VERSION = "2.0.0";
 const char* AUTHOR = "bad-antics";
-const char* DISCORD = "discord.gg/killers";
+const char* DISCORD = "x.com/AnonAntics";
 
 const char* BANNER = R"(
 ╭──────────────────────────────────────────╮

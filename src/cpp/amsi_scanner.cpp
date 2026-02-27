@@ -1,7 +1,7 @@
 // ═══════════════════════════════════════════════════════════════════
 //  NULLSEC Windows AMSI Bypass & Memory Scanner
 //  Advanced anti-malware interface bypass and memory analysis
-//  @author bad-antics | discord.gg/killers
+//  @author bad-antics | x.com/AnonAntics
 // ═══════════════════════════════════════════════════════════════════
 //
 //  Compile: cl /EHsc /Fe:amsi_scanner.exe amsi_scanner.cpp
@@ -23,7 +23,7 @@
 
 #define VERSION "2.0.0"
 #define AUTHOR "bad-antics"
-#define DISCORD "discord.gg/killers"
+#define DISCORD "x.com/AnonAntics"
 
 const char* BANNER = R"(
 ╭──────────────────────────────────────────╮

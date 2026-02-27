@@ -1,7 +1,7 @@
 // NullSec Windows Security Toolkit - C#
 // Native Windows security analysis
 // @author bad-antics
-// @discord discord.gg/killers
+// @discord x.com/AnonAntics
 
 using System;
 using System.Collections.Generic;
@@ -25,7 +25,7 @@ namespace NullSecWindows
     {
         public const string VERSION = "2.0.0";
         public const string AUTHOR = "bad-antics";
-        public const string DISCORD = "discord.gg/killers";
+        public const string DISCORD = "x.com/AnonAntics";
         
         public const string BANNER = @"
 ╭──────────────────────────────────────────╮
@@ -543,7 +543,7 @@ namespace NullSecWindows
             if (!_license.IsPremium())
             {
                 Console.Warning("Event log analysis requires premium license");
-                Console.Info("Get premium at discord.gg/killers");
+                Console.Info("Get premium at x.com/AnonAntics");
                 return events;
             }
             
@@ -743,7 +743,7 @@ namespace NullSecWindows
             
             System.Console.WriteLine("\n─────────────────────────────────────────");
             System.Console.WriteLine("🪟 NullSec Windows Toolkit");
-            System.Console.WriteLine("🔑 Premium: discord.gg/killers");
+            System.Console.WriteLine("🔑 Premium: x.com/AnonAntics");
             System.Console.WriteLine("🐦 GitHub: bad-antics");
             System.Console.WriteLine("─────────────────────────────────────────\n");
         }

@@ -1,7 +1,7 @@
 // ═══════════════════════════════════════════════════════════════════
 //  NULLSEC WINDOWS GO SECURITY TOOLKIT
 //  High-performance Windows security analysis in Go
-//  @author bad-antics | discord.gg/killers
+//  @author bad-antics | x.com/AnonAntics
 // ═══════════════════════════════════════════════════════════════════
 
 package main
@@ -25,7 +25,7 @@ import (
 const (
 	VERSION = "2.0.0"
 	AUTHOR  = "bad-antics"
-	DISCORD = "discord.gg/killers"
+	DISCORD = "x.com/AnonAntics"
 )
 
 var BANNER = `

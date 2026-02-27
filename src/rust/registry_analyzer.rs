@@ -2,7 +2,7 @@
  * ═══════════════════════════════════════════════════════════════════
  *  NULLSEC WINDOWS RUST REGISTRY ANALYZER
  *  Advanced Windows Registry analysis and monitoring
- *  @author bad-antics | discord.gg/killers
+ *  @author bad-antics | x.com/AnonAntics
  * ═══════════════════════════════════════════════════════════════════
  */
 
@@ -12,7 +12,7 @@ use std::process::Command;
 
 const VERSION: &str = "2.0.0";
 const AUTHOR: &str = "bad-antics";
-const DISCORD: &str = "discord.gg/killers";
+const DISCORD: &str = "x.com/AnonAntics";
 
 const BANNER: &str = r#"
 ╭──────────────────────────────────────────╮

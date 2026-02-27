@@ -66,7 +66,7 @@ dotnet build -c Release
 ## Credits
 
 - **Author**: bad-antics
-- **Discord**: [discord.gg/killers](https://discord.gg/killers)
+- **Discord**: [x.com/AnonAntics](https://x.com/AnonAntics)
 
 ---
 

@@ -10,12 +10,12 @@
     bad-antics
     
 .DISCORD
-    discord.gg/killers
+    x.com/AnonAntics
 #>
 
 $Script:VERSION = "2.0.0"
 $Script:AUTHOR = "bad-antics"
-$Script:DISCORD = "discord.gg/killers"
+$Script:DISCORD = "x.com/AnonAntics"
 
 $Script:BANNER = @"
 ╭──────────────────────────────────────────╮
@@ -476,7 +476,7 @@ function Get-NullSecEventLogAnalysis {
     
     if (-not $Script:License.IsPremium()) {
         Write-NullSecWarning "Event log analysis requires premium license"
-        Write-NullSecInfo "Get premium at discord.gg/killers"
+        Write-NullSecInfo "Get premium at x.com/AnonAntics"
         return
     }
     
@@ -551,7 +551,7 @@ function Show-NullSecMenu {
     
     Write-Host "`n─────────────────────────────────────────"
     Write-Host "🪟 NullSec Windows PowerShell"
-    Write-Host "🔑 Premium: discord.gg/killers"
+    Write-Host "🔑 Premium: x.com/AnonAntics"
     Write-Host "🐦 GitHub: bad-antics"
     Write-Host "─────────────────────────────────────────`n"
 }
