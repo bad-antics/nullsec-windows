@@ -1,7 +1,7 @@
 // NullSec Windows Security Toolkit - C#
 // Native Windows security analysis
 // @author bad-antics
-// @discord x.com/AnonAntics
+// @twitter x.com/AnonAntics
 
 using System;
 using System.Collections.Generic;

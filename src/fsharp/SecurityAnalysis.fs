@@ -1,7 +1,7 @@
 // NullSec Windows F# Security Analysis
 // Functional security analysis tools
 // @author bad-antics
-// @discord x.com/AnonAntics
+// @twitter x.com/AnonAntics
 
 module NullSecWindows.FSharp.SecurityAnalysis
 
